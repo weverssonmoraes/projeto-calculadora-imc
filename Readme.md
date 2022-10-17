@@ -7,4 +7,6 @@ Projeto criado no Curso B7web.
 ### Instalação
 - `yarn`
 ### Para Rodar
-- `yarn dev`
+- `yarn dev`]
+
+Deploy do projeto: https://projeto-calculadora-imc-six.vercel.app/
